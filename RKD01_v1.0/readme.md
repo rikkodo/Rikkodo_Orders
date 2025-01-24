@@ -9,7 +9,7 @@ Choc v1の分割キーボード
 ファイル|内容|PCB幅
 :--|:--|:--
 AZFoot.zip|az1uball搭載用板|1.2 -- 1.6mm
-Assemble\_L.zip|左手基板|1.6mm
+Assemble\_L.zip|左手基板(GNDが細いので再設計が必要)|1.6mm
 Assemble\_L\_BOM\_JLCSMT.csv|左手用BOM|-
 Assemble\_L\_JLCSMT\_CPL1.csv|左手用CPL|-
 Assemble\_R\_SP.zip|右手基板|1.6mm
