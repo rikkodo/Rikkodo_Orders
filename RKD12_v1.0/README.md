@@ -14,3 +14,4 @@ RKD12/Btm|Btm|0.8mm
 
 * RKD12/TOP: 面付け以外でミシン目をつけると崩れるぞと警告が来る。
 * RePicotSPlit: U201のマイコンをPCBAし忘れている。
+* RKD12/ASM: Switchがずれているので再発注
